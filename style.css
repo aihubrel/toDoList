@@ -1,11 +1,12 @@
 body {
   background-color: aliceblue;
-}
-
-#root{
   width: 50%;
   margin: auto;
   text-align: center;
+}
+
+#root{
+  background-color: white;
 }
 
 input {
