@@ -1,3 +1,9 @@
+#root{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
 input {
   width: 70px;
 }
