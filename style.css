@@ -1,3 +1,7 @@
+body {
+  background-color: aliceblue;
+}
+
 #root{
   width: 50%;
   margin: auto;
