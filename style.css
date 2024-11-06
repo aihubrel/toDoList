@@ -29,6 +29,6 @@ h2 {
 }
 
 button {
-  border: 0.5px gray solid;
+  border: 0.5px gray solid !important;
   border-radius: 5px;
 }
