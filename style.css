@@ -23,3 +23,12 @@ h2 {
   font-size: 40px !important;
   color: rgba(8, 8, 102, 0.803) !important;
 }
+
+.form-control{
+  margin: auto !important;
+}
+
+button {
+  border: 0.5px gray solid;
+  border-radius: 5px;
+}
