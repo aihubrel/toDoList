@@ -1,14 +1,25 @@
+
+
 body {
-  background-color: aliceblue;
-  width: 50%;
-  margin: auto;
-  text-align: center;
+  background-color: aliceblue !important;
+  width: 50% !important;
+  margin: auto !important;
+  text-align: center !important;
+  font-family: Arial, Helvetica, sans-serif !important;
 }
 
 #root{
-  background-color: white;
+  background-color: white !important;
+  margin-top: 10px;
+  padding-bottom: 50px;
 }
 
 input {
   width: 70px;
+}
+
+h2 {
+  font-weight: bold !important;
+  font-size: 40px !important;
+  color: rgba(8, 8, 102, 0.803) !important;
 }
